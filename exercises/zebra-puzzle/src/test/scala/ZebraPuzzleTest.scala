@@ -1,6 +1,7 @@
 import org.scalatest.{FunSuite, Matchers}
 
 import ZebraPuzzle._
+import ZebraPuzzle.Nationality._
 
 /** @version created manually **/
 class ZebraPuzzleTest extends FunSuite with Matchers {
